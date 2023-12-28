@@ -4,7 +4,6 @@ public class Switch1 {
 
     public static void main(String[] args) {
         int grade = 2;
-//      if문이랑 비슷함 if문보다 는 보다 직관적임
         int coupon;
         if (grade == 1) {
             coupon = 1000;

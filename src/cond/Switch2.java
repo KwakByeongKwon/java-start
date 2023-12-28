@@ -4,7 +4,8 @@ public class Switch2 {
 
     public static void main(String[] args) {
         int grade = 1;
-
+//      if문이랑 비슷함 if문보다 는 보다 직관적임
+//      break를 쓰지 않으면 마지막까지 다 실행됌
         int coupon;
         switch (grade) {
             case 1:
